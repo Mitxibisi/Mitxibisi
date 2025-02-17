@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Mitxibisi from Spain<br><br>- 🔭 I’m working right now<br>- 📚 I'm currently learning HTML and CSS<br>- ⚡ In my free time I'm learning new lenguajes.</p>
+<p align="left">I'm Mitxibisi from Spain<br><br>- 🔭 I’m working right now<br>- 📚 I'm currently learning HTML and CSS<br>- ⚡ In my free time I'm learning new languages.</p>
 
 ###
 
