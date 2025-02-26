@@ -1,32 +1,4 @@
-###
-
-<div align="center">
-  <a href= "https://discord.gg/Wyxhw48T" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mitxibisi.Mitxibisi&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mitxibisi from Spain<br><br>- 🔭 I’m working right now<br>- 📚 I'm currently learning HTML and CSS<br>- ⚡ In my free time I'm learning new languages.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
